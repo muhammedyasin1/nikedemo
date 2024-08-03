@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    
+}
+.navbar .div1{
+   background-color: rgba(240, 248, 255, 0.711);
+    height: 50px;
+    width: 100%;
+    
+}
+.navbar{
+   margin-top: -10px;
+    
+    
+   
+}
+.navbar .div2{
+    background-color:white;
+    height: 100px;
+    width: 100%;
+}
+.div1 img{
+    height: 60px;
+    width: 100px;
+    margin-left: 10px;
+}
+.div1{
+    display: flex;
+}
+.div1 .lis ul{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+.div1 .divimg{
+    width: 50%;
+}
+.div1 .lis ul li{
+    margin-left: 30px;
+    font-weight: 50px;
+}
+.div2 ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+   
+}
+.div2 ul li a{
+  
+  margin: 30px;
+  text-decoration: none;
+  font-family: "Kanit", sans-serif;
+  color: black;
+  font-weight: 50px;
+  font-size: 20px;
+    
+}
+ .div2 ul li a:hover{
+  text-decoration: underline;
+}
+.banner{
+    background-image: url('https://s.yimg.com/uu/api/res/1.2/jdwRLInqxdljtkxW9uRL_A--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/footwear_news_642/a999741f9fc4480b61ceac6776d351af');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 95%;
+    height: 1000px;
+    margin-left: 50px;
+    
+   
+}
+.text h1{
+    text-align: center;
+    margin-top: 40px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 100px;
+    font-weight: 800;
+    color: black;
+}
+h6{
+    text-align: center;
+    
+}
+
+.banner2{
+    background-image: url('https://getwallpapers.com/wallpaper/full/7/8/1/1419878-nike-shoes-wallpaper-3840x2160-notebook.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 1000px;
+
+}
+.txt ul li{
+    font-size: 50px;
+    margin-left: 40px;
+    font-weight: bolder;
+    font-family: "Bungee Spice", sans-serif;
+    color: white;
+
+    
+}
+.bannertxt{
+    position: absolute;
+    top: 160%;
+    
+}
+.ban3{
+    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/35463b103211209.5f8d57c277188.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 1000px;
+}
+.grap{
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
+    font-size: 35px;
+    font-weight: 600;
+    color:whitesmoke;
+   
+}
+.para{
+    position: absolute;
+    top: 300%;
+}
+
+
+.shoe{
+    display: flex;
+}
+.shoe .one{
+    width: 50%;
+    margin-left: 100px;
+}
+.shoe .two img {
+    height: 740px;
+    width: 100%;
+}
+#spo{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.shop .row img{
+    width: 400px;
+}
+.shop{
+    display: flex;
+}
+.shop .row{
+    margin: 20px;
+}
+.shop .row img:hover{
+    scale: 1.2 ;
+    border: 3px ridge black;
+
+}
+.carousel-inner{
+    height: 800px;
+    margin-top: 30px;
+    background-attachment: fixed;
+}
+.ok{
+    background-image: url('https://i.pinimg.com/originals/3c/da/3b/3cda3bbb16d653a8cb816cf9f71c1efa.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 1000px;
+}
+.rono{
+    background-image: url('https://i.pinimg.com/originals/91/ff/af/91ffaf9cc801bba44fe2acb676dd4de8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 1000px;
+}
